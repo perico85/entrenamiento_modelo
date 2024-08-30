@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # Configuración del usuario
-api_key = '9cfb71dcf14fbef4af0bb8f86c3d2207'
+api_key = 'API_KEY'
 REQUEST_LIMIT = 75000
 
 # Códigos de los países específicos a procesar (ISO Alpha-2)
