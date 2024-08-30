@@ -6,7 +6,7 @@ import json
 from datetime import datetime
 
 # Tu clave de API
-api_key = '9cfb71dcf14fbef4af0bb8f86c3d2207'
+api_key = 'API_KEY'
 headers = {
     'x-rapidapi-host': 'v3.football.api-sports.io',
     'x-rapidapi-key': api_key
